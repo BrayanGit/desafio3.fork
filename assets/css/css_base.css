@@ -80,7 +80,7 @@ body{
 
 
 .style_seccion_contenido .titulo_main_content{
-    background-color:#3d2b1f;
+    background-color:#3f070c;
     margin-top: 15px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -128,7 +128,7 @@ body{
 .style_seccion_footer{
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color:#3d2b1f;
+    background-color:#3f070c;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
